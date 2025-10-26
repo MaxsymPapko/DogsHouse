@@ -1,6 +1,15 @@
-﻿namespace DogsHouseService.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace DogsHouseService.Controllers
 {
-    public class PingController
+    [ApiController]
+    [Route("[controller]")]
+    public class PingController : ControllerBase
     {
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok("Dogshouseservice.Version1.0.1");
+        }
     }
 }

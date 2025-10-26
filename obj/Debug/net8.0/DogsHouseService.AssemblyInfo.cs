@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DogsHouseService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15b5a8053bd28e3a488742de8dad329538c8db61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+352aa273c41f929ff73f8dfbd454b9886395c03b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DogsHouseService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DogsHouseService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
